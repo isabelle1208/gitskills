@@ -6,3 +6,4 @@ hhhhhh
 >>>>>>> dev
 
 HELLO WORLD
+im fixing the bug now
