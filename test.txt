@@ -6,3 +6,5 @@ hhhhhh
 >>>>>>> dev
 
 HELLO WORLD
+im fixing the bug now
+im fixing the bug continue...
